@@ -9,3 +9,14 @@ C:\sistema\jogohbsis\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\netcoreapp2.2
 C:\sistema\jogohbsis\PedraPapelTesoura\PedraPapelTesoura\bin\Debug\netcoreapp2.2\PedraPapelTesoura.pdb
 C:\sistema\jogohbsis\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\netcoreapp2.2\PedraPapelTesoura.dll
 C:\sistema\jogohbsis\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\netcoreapp2.2\PedraPapelTesoura.pdb
+C:\Users\valeria.aquino\Downloads\jogohbsis\PedraPapelTesoura\PedraPapelTesoura\bin\Debug\netcoreapp2.2\PedraPapelTesoura.deps.json
+C:\Users\valeria.aquino\Downloads\jogohbsis\PedraPapelTesoura\PedraPapelTesoura\bin\Debug\netcoreapp2.2\PedraPapelTesoura.runtimeconfig.json
+C:\Users\valeria.aquino\Downloads\jogohbsis\PedraPapelTesoura\PedraPapelTesoura\bin\Debug\netcoreapp2.2\PedraPapelTesoura.runtimeconfig.dev.json
+C:\Users\valeria.aquino\Downloads\jogohbsis\PedraPapelTesoura\PedraPapelTesoura\bin\Debug\netcoreapp2.2\PedraPapelTesoura.dll
+C:\Users\valeria.aquino\Downloads\jogohbsis\PedraPapelTesoura\PedraPapelTesoura\bin\Debug\netcoreapp2.2\PedraPapelTesoura.pdb
+C:\Users\valeria.aquino\Downloads\jogohbsis\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\netcoreapp2.2\PedraPapelTesoura.csprojResolveAssemblyReference.cache
+C:\Users\valeria.aquino\Downloads\jogohbsis\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\netcoreapp2.2\PedraPapelTesoura.csproj.CoreCompileInputs.cache
+C:\Users\valeria.aquino\Downloads\jogohbsis\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\netcoreapp2.2\PedraPapelTesoura.AssemblyInfoInputs.cache
+C:\Users\valeria.aquino\Downloads\jogohbsis\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\netcoreapp2.2\PedraPapelTesoura.AssemblyInfo.cs
+C:\Users\valeria.aquino\Downloads\jogohbsis\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\netcoreapp2.2\PedraPapelTesoura.dll
+C:\Users\valeria.aquino\Downloads\jogohbsis\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\netcoreapp2.2\PedraPapelTesoura.pdb
