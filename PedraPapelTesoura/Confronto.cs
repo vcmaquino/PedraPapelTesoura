@@ -9,7 +9,6 @@ namespace PedraPapelTesoura
     {
         public string ConfrontoJogo(List<Jogadores> listaJogadores)
         {
-            string ganhador = "";
             regrasdojogo regrasDoJogo = new regrasdojogo();
             List<Jogadores> listaVencedores = new List<Jogadores>();
             while (listaJogadores.Count > 0)
@@ -17,20 +16,19 @@ namespace PedraPapelTesoura
                 if (listaJogadores.Count == 1 )
                 {
 
-                    return ganhador = listaJogadores[0].StringJogador;
+                    return listaJogadores[0].StringJogador;
                 }
                 else
                 {
-                    var teste = listaJogadores[1];
                     listaVencedores.Add(regrasDoJogo.jogo(listaJogadores[0], listaJogadores[1]));
                     listaJogadores.Remove(listaJogadores[0]);
-                    listaJogadores.Remove(listaJogadores[1]);
+                    listaJogadores.Remove(listaJogadores[0]);
 
                 }
 
 
             }
-            ConfrontoJogo(listaVencedores);
+            return ConfrontoJogo(listaVencedores);
         }
     }
 }
