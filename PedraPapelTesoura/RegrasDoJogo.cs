@@ -5,51 +5,50 @@ namespace pedrapapeltesoura
 {
     public class regrasdojogo
     {
-
         public Jogadores jogo(Jogadores Jogador1, Jogadores Jogador2)
         {
-            switch (Jogador1.StringJogada.ToUpper())
+            switch (Jogador1.Jogada.ToUpper())
             {
                 case "P":
-                    switch (Jogador2.StringJogada.ToUpper())
+                    switch (Jogador2.Jogada.ToUpper())
                     {
                         case "S":
-                            Console.WriteLine("Venceu porque tesoura vence papel.");
+                            Console.WriteLine(Jogador2 .Nome + "  Venceu porque tesoura vence papel.");
                             return Jogador2;
                         case "P":
-                            Console.WriteLine(" O " + Jogador1.StringJogador + "Venceu por empate");
+                            Console.WriteLine(" O " + Jogador1.Nome + "  Venceu por empate");
                             return Jogador1;
                         case "R":
-                            Console.WriteLine(" O " + Jogador1.StringJogador + "Venceu papel vence pedra");
+                            Console.WriteLine(" O  " + Jogador1.Nome + "  Venceu papel vence pedra");
                             return Jogador1;
                     }
                     break;
                 case "S":
-                    switch (Jogador2.StringJogada.ToUpper())
+                    switch (Jogador2.Jogada.ToUpper())
                     {
                         case "S":
-                            Console.WriteLine(" O " + Jogador1.StringJogador + "Venceu por empate");
+                            Console.WriteLine(" O  " + Jogador1.Nome + "   Venceu por empate");
                             return Jogador1;
                         case "P":
-                            Console.WriteLine(Jogador1.StringJogador + "Venceu porque tesoura vence papel.");
+                            Console.WriteLine(Jogador1.Nome + "   Venceu porque tesoura vence papel.");
                             return Jogador1;
                         case "R":
-                            Console.WriteLine(Jogador2.StringJogador + "Venceu porque papel vence pedra.");
+                            Console.WriteLine(Jogador2.Nome + "  Venceu porque pedra vence papel.");
                             return Jogador2;
                     }
                     break;
                 case "R":
 
-                    switch (Jogador2.StringJogada.ToUpper())
+                    switch (Jogador2.Jogada.ToUpper())
                     {
                         case "S":
-                            Console.WriteLine(Jogador1.StringJogador + "Venceu porque pedra vence tesoura.");
+                            Console.WriteLine(Jogador1.Nome + "  Venceu porque pedra vence tesoura.");
                             return Jogador1;
                         case "P":
-                            Console.WriteLine(Jogador2.StringJogador + "Venceu porque papel vence pedra.");
+                            Console.WriteLine(Jogador2.Nome + "  Venceu porque papel vence pedra.");
                             return Jogador2;
                         case "R":
-                            Console.WriteLine(" O " + Jogador1.StringJogador + "Venceu por empate");
+                            Console.WriteLine(" O " + Jogador1.Nome + "  Venceu por empate");
                             return Jogador1;
                     }
                     break;
