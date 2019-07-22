@@ -1,0 +1,11 @@
+C:\sistema\jogohbsis\PedraPapelTesoura\PedraPapelTesoura\bin\Debug\netcoreapp2.2\PedraPapelTesoura.deps.json
+C:\sistema\jogohbsis\PedraPapelTesoura\PedraPapelTesoura\bin\Debug\netcoreapp2.2\PedraPapelTesoura.runtimeconfig.json
+C:\sistema\jogohbsis\PedraPapelTesoura\PedraPapelTesoura\bin\Debug\netcoreapp2.2\PedraPapelTesoura.runtimeconfig.dev.json
+C:\sistema\jogohbsis\PedraPapelTesoura\PedraPapelTesoura\bin\Debug\netcoreapp2.2\PedraPapelTesoura.dll
+C:\sistema\jogohbsis\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\netcoreapp2.2\PedraPapelTesoura.csprojAssemblyReference.cache
+C:\sistema\jogohbsis\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\netcoreapp2.2\PedraPapelTesoura.csproj.CoreCompileInputs.cache
+C:\sistema\jogohbsis\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\netcoreapp2.2\PedraPapelTesoura.AssemblyInfoInputs.cache
+C:\sistema\jogohbsis\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\netcoreapp2.2\PedraPapelTesoura.AssemblyInfo.cs
+C:\sistema\jogohbsis\PedraPapelTesoura\PedraPapelTesoura\bin\Debug\netcoreapp2.2\PedraPapelTesoura.pdb
+C:\sistema\jogohbsis\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\netcoreapp2.2\PedraPapelTesoura.dll
+C:\sistema\jogohbsis\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\netcoreapp2.2\PedraPapelTesoura.pdb
